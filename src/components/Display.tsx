@@ -3,7 +3,7 @@ import React from "react";
 import "./Display.scss";
 
 interface Props {
-  value: number;
+  value: string;
 }
 
 const Display = ({ value }: Props) => {
